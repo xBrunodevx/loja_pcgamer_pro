@@ -16,7 +16,7 @@ Como usar:
 
 
 3. Baixe ou clone este repositório.
-4. Coloque as imagens dos produtos na pasta `imagens` (exemplo: `rtx3070.jpg`, `i9_14900k.jpg`).
+4. Coloque as imagens dos produtos na pasta `imagens` (exemplo: `rtx3070.png`, `i9.png`).
 5. Execute o arquivo principal:
 
 

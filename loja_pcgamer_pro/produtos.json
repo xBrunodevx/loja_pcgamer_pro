@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Placa de Vídeo RTX 3070",
+        "descricao": "8GB GDDR6, Ray Tracing, excelente para jogos em 1440p.",
+        "preco": 3499.9,
+        "imagem": "rtx3070.png"
+    },
+    {
+        "nome": "Processador Intel i9-14900K",
+        "descricao": "24 núcleos, 32 threads, clock de até 6GHz.",
+        "preco": 2999.9,
+        "imagem": "i9.png"
+    },
+    {
+        "nome": "Memória RAM 16GB DDR4",
+        "descricao": "2x8GB, 3200MHz, CL16, excelente desempenho.",
+        "preco": 399.99,
+        "imagem": "ram.png"
+    },
+    {
+        "nome": "SSD NVMe 1TB",
+        "descricao": "Leitura 3500MB/s, escrita 3000MB/s, super rápido.",
+        "preco": 499.9,
+        "imagem": "ssd.png"
+    },
+    {
+        "nome": "Fonte 750W 80 Plus Gold",
+        "descricao": "Alta eficiência, ideal para PCs gamers potentes.",
+        "preco": 699.0,
+        "imagem": "fonte.png"
+    },
+    {
+        "nome": "Gabinete Gamer RGB",
+        "descricao": "Vidro temperado, iluminação RGB frontal.",
+        "preco": 459.9,
+        "imagem": "gabinete.png"
+    },
+    {
+        "nome": "Headset HyperX",
+        "descricao": "Som 7.1 virtual, microfone destacável.",
+        "preco": 299.9,
+        "imagem": "headset.png"
+    }
+]
